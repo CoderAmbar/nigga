@@ -180,16 +180,3 @@ Cybersecurity | Python | Web Security
 
 ⭐ Star the repository if you found it useful.
 
-markdown
-Copy code
-
----
-
-If you want next, I can:
-- Rewrite this for **college project submission**
-- Add **system design / workflow diagram**
-- Write a **viva explanation script**
-- Create a **resume bullet version**
-- Make a **PDF report template**
-
-Just say the word.
